@@ -1,0 +1,21 @@
+{
+    "name": "conves/recurrent",
+    "description": "Calculating event recurrences",
+    "license": "MIT",
+    "keywords": ["recurrent"],
+    "authors": [
+        {
+            "name": "Corneliu Vesa",
+            "email": "vesacorneliu@yahoo.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ConVes\\Recurrent\\": "src"
+        }
+    }
+}
